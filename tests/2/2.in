@@ -1,0 +1,68 @@
+3
+add-user Rick terrorist
+add-user Morty counter-terrorist
+add-user Peter terrorist
+add-user Brian counter-terrorist
+add-user Meg terrorist
+add-user Stewie terrorist
+round 23
+buy Ashley pistol
+buy Rick pistol
+get-money Peter
+buy Peter heavy
+buy Meg pistol
+go-afk Stewie
+start
+shoot Morty Peter knife
+shoot Morty Peter knife
+get-money Rick
+shoot Morty Peter knife
+get-health Peter
+shoot Morty Stewie pistol
+shoot Meg Morty knife
+buy Brian pistol
+shoot Meg Morty pistol
+shoot Brian Morty knife
+shoot Meg Morty knife
+shoot Morty Meg knife
+get-health Meg
+get-health Morty
+shoot Meg Morty knife
+go-afk Brian
+add-user Lois counter-terrorist
+round 26
+get-money Stewie
+go-atk Brian
+buy Meg operator
+buy Brian pistol
+get-money Meg
+buy Morty heavy
+buy Meg pistol
+buy Meg heavy
+get-money Morty
+start
+shoot Morty Stewie knife
+shoot Morty Meg heavy
+shoot Morty Meg heavy
+shoot Meg Ashley knife
+shoot Meg Morty pistol
+get-money Brian
+shoot Morty Meg heavy
+go-atk Stewie
+shoot Brian Meg knife
+shoot Brian Stewie pistol
+shoot Brian Stewie pistol
+shoot Brian Stewie pistol
+buy Rick heavy
+shoot Brian Stewie pistol
+shoot Brian Stewie pistol
+shoot Meg Brian pistol
+add-user Glenn terrorist
+round 7
+buy Meg knife
+buy Meg pistol
+get-health Morty
+buy Glenn heavy
+buy Meg heavy
+start
+go-afk Brian

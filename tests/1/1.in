@@ -1,0 +1,17 @@
+2
+add-user phil terrorist
+add-user claire terrorist
+add-user haily counter-terrorist
+add-user alex counter-terrorist
+add-user luke counter-terrorist
+round 3
+get-health luke
+start
+go-afk luke
+add-user manny terrorist
+round 5
+go-atk luke
+get-money manny
+start
+get-money alex
+get-money claire

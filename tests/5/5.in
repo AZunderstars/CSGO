@@ -1,0 +1,16 @@
+1
+add-user Parnian terrorist
+add-user Taha terrorist
+add-user Sara counter-terrorist
+round 11
+buy Ramtin pistol
+buy Parnian pistol
+buy Taha heavy
+buy Sara pistol
+start
+shoot Parnian Sara pistol
+shoot Taha Sara knife
+shoot Sara Taha pistol
+shoot Sara Parnian knife
+shoot Sara Parnian knife
+shoot Sara Parnian knife

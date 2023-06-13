@@ -1,0 +1,46 @@
+2
+add-user Taha terrorist
+add-user Parnian terrorist
+add-user Sara counter-terrorist
+add-user Hesam counter-terrorist
+add-user Mohammad terrorist
+round 11
+buy Parnian pistol
+buy Taha heavy
+buy Sara pistol
+start
+shoot Parnian Sara pistol
+shoot Taha Sara knife
+shoot Sara Taha pistol
+shoot Sara Parnian knife
+shoot Sara Parnian knife
+shoot Sara Parnian knife
+score-board
+round 27
+get-money Sara
+get-money Taha
+buy Sara heavy
+buy Taha pistol
+buy Taha pistol
+buy Taha gun
+buy Hesam heavy
+shoot Hesam Parnian knife
+start
+buy Hesam heavy
+shoot Hesam Parnian knife
+shoot Parnian Sara knife
+shoot Mohammad Parnian knife
+shoot Taha Sara heavy
+shoot Taha Sara knife
+go-afk Hesam
+shoot Taha Hesam knife
+shoot Taha Hesam knife
+shoot Taha Hesam knife
+get-money Hesam
+go-atk Hesam
+shoot Taha Hesam knife
+shoot Taha Hesam knife
+shoot Taha Hesam knife
+shoot Mohammad Sara knife
+shoot Mohammad Sara knife
+get-health Sara

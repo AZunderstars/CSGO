@@ -1,0 +1,7 @@
+1
+add-user Ramtin counter-terrorist
+add-user Amin terrorist
+round 3
+go-afk Amin
+go-atk Amin
+start
