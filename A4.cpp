@@ -65,6 +65,11 @@ public:
     int get_prize() { return prize; }
 };
 
+const Weapon HEAVY = Weapon("heavy", 3000, 45, 100);
+const Weapon PISTOL = Weapon("pistol", 400, 20, 200);
+const Weapon KNIFE = Weapon("knife", 0, 35, 500);
+const vector<Weapon> VALID_WEAPONS = {HEAVY, PISTOL, KNIFE};
+
 class Player
 {
 private:
@@ -73,10 +78,6 @@ private:
     int health;
     int money;
     vector<Weapon> weapons;
-    Weapon HEAVY = Weapon("heavy", 3000, 45, 100);
-    Weapon PISTOL = Weapon("pistol", 400, 20, 200);
-    Weapon KNIFE = Weapon("knife", 0, 35, 500);
-    vector<Weapon> VALID_WEAPONS = {HEAVY, PISTOL, KNIFE};
     string state;
     int kills;
     int deaths;
