@@ -1,4 +1,5 @@
-g++ A4*.cpp
+#!/bin/bash
+g++ A4.cpp
 
 if [ $? -eq 0 ];
 then
