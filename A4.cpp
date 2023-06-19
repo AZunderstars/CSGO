@@ -315,10 +315,7 @@ bool CSGO::is_user_valid(string username)
 {
     if (!does_user_exist(username))
         return false;
-    else if (find_player_reference(username)->get_state() == AFK)
-        return false;
-    else
-        return true;
+    return find_player_reference(username)->get_state() != AFK;
 }
 
 vector<Player> CSGO::find_players_of_team(string team)
